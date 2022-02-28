@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="circle">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="rounded_corner">
+        <item name="cornerSize">15%</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+
+    </style>
+
+</resources>
